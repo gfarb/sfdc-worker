@@ -1,0 +1,16 @@
+{
+  "private": true,
+  "name": "sfdc-worker",
+  "version": "1.0.0",
+  "description": "A template for kick starting a Cloudflare Workers project that integrates with Salesforce",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "format": "prettier --write '**/*.{js,css,json,md}'"
+  },
+  "author": "Max Goldfarb <max.goldfarb@logmein.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "^1.18.2"
+  }
+}

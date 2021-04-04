@@ -1,0 +1,7 @@
+name = "sfdc-worker"
+type = "javascript"
+
+account_id = "<ACCOUNT_ID>"
+workers_dev = true
+route = ""
+zone_id = ""
